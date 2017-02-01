@@ -67,3 +67,10 @@ div.w95 {width: 95%;}
 ul {
   margin-left: 2rem;
 }
+
+.test {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  text-align: right;
+}
